@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "createBy": "812202173147381760",
+            "createTime": 1479726352000,
+            "id": "800656469237170176",
+            "isEnable": true,
+            "level": 1,
+            "name": "丝集热点",
+            "parentId": "0",
+            "remark": "",
+            "sort": 1,
+            "updateBy": "",
+            "updateTime": 1486359694000,
+            "version": 5
+        },
+        {
+            "createBy": "1",
+            "createTime": 1479726341000,
+            "id": "800656422655229952",
+            "isEnable": true,
+            "level": 1,
+            "name": "行业动态",
+            "parentId": "0",
+            "remark": "",
+            "sort": 2,
+            "updateBy": "",
+            "updateTime": 1479897067000,
+            "version": 3
+        },
+        {
+            "createBy": "812202173147381760",
+            "createTime": 1479726329000,
+            "id": "800656374169075712",
+            "isEnable": true,
+            "level": 1,
+            "name": "丝绸文化",
+            "parentId": "0",
+            "remark": "",
+            "sort": 3,
+            "updateBy": "",
+            "updateTime": 1486359619000,
+            "version": 2
+        }
+    ],
+    "httpCode": 200,
+    "msg": "OK",
+    "timestamp": 1491985590308
+}
